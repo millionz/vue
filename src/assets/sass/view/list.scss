@@ -1,0 +1,6 @@
+@import "_common";
+
+
+.p-list{
+  &:before{ content: '这是列表页'; }
+}

@@ -1,0 +1,6 @@
+@import "_common";
+
+
+.p-detail{
+  &:before{ content: '这是详情页'; }
+}
